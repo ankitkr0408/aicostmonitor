@@ -1,0 +1,19 @@
+{
+  "name": "ai-bill-guard",
+  "version": "1.0.0",
+  "description": "making npm packages for the developer to analyze the cost of their ai costing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "cli-table3": "^0.6.5"
+  }
+}
